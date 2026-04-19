@@ -30,6 +30,6 @@ export const projects: Project[] = [
     description:
       "Post Call Analysis enables users to build custom dashboards for call insights without writing code. It supports flexible metrics, layouts, and data views based on user needs. Built to explore how AI can make analytics tools more accessible and user-driven.",
     tags: ["Claude-Code", "Figma-MCP", "Analytics"],
-    href: "https://data-studio-pca-git-iterations-a-purnetbuilds.vercel.app",
+    href: "https://data-studio-lg59dura3-purnetbuilds.vercel.app",
   },
 ];
