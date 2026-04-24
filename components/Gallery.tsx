@@ -17,7 +17,7 @@ const galleryVariants = {
 
 export default function Gallery() {
   return (
-    <section className="px-20 pb-24 w-full">
+    <section className="px-5 sm:px-10 lg:px-20 pb-24 w-full">
       <motion.div
         variants={galleryVariants}
         initial="hidden"

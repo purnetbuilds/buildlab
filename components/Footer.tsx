@@ -58,8 +58,8 @@ const socialLinks = [
 export default function Footer() {
   return (
     <footer
-      style={{ borderTop: "1px solid var(--border)" }}
-      className="px-6 py-8 flex flex-col items-center gap-4"
+      style={{ borderTop: "1px solid var(--border)", paddingBottom: "max(2.5rem, env(safe-area-inset-bottom, 2.5rem))" }}
+      className="px-6 pt-8 flex flex-col items-center gap-4"
     >
       <div className="flex items-center gap-6">
         {socialLinks.map(({ label, href, Icon }) => (

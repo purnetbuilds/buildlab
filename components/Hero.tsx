@@ -34,7 +34,7 @@ export default function Hero() {
   const activeLineVariants = shouldReduce ? lineVariantsReduced : lineVariants;
 
   return (
-    <section className="px-20 pt-24 pb-16 w-full">
+    <section className="px-5 sm:px-10 lg:px-20 pt-24 pb-16 w-full">
       <motion.div
         variants={containerVariants}
         initial="hidden"
