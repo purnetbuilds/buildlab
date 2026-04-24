@@ -14,7 +14,7 @@ export const projects: Project[] = [
     description:
       "Spendsmart is a financial advisor that uses real data to generate personalized insights. It helps users understand spending patterns, optimize subscriptions, and make better financial decisions. Built to explore how AI can move from mock responses to real, usable guidance.",
     tags: ["Personalization", "Claude-API", "FinTech"],
-    href: "https://spendsmart-purnetbuilds.vercel.app",
+    href: "https://spendsmart-pink.vercel.app?_vercel_share=ghBu4BCFfSfnU8QLYXqSUrNRawmX2XAA",
   },
   {
     title: "Calora",
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     description:
       "Calora is a dessert e-commerce experience with smart recommendations and search. It personalizes product discovery while keeping the experience simple and intuitive. Built to explore how AI can enhance discovery without overwhelming users.",
     tags: ["AI", "E-commerce", "Discovery"],
-    href: "https://calora-git-editorial-purnetbuilds.vercel.app",
+    href: "https://calora-git-editorial-purnetbuilds-cc.vercel.app?_vercel_share=KbBNu31nvVQvJaQ7AjSLojW8RAyNTj8Q",
   },
   {
     title: "Post Call Analysis",
@@ -30,6 +30,6 @@ export const projects: Project[] = [
     description:
       "Post Call Analysis enables users to build custom dashboards for call insights without writing code. It supports flexible metrics, layouts, and data views based on user needs. Built to explore how AI can make analytics tools more accessible and user-driven.",
     tags: ["Claude-Code", "Figma-MCP", "Analytics"],
-    href: "https://pca-purnetbuilds.vercel.app",
+    href: "https://pca-phi.vercel.app",
   },
 ];
