@@ -45,7 +45,7 @@ function Linkedin({ size = 24, strokeWidth = 1.5 }: IconProps) {
 const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/purnetm",
+    href: "https://github.com/purnetbuilds",
     Icon: Github,
   },
   {
