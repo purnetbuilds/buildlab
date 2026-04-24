@@ -22,7 +22,7 @@ export const projects: Project[] = [
     description:
       "Calora is a dessert e-commerce experience with smart recommendations and search. It personalizes product discovery while keeping the experience simple and intuitive. Built to explore how AI can enhance discovery without overwhelming users.",
     tags: ["AI", "E-commerce", "Discovery"],
-    href: "https://calora-git-editorial-purnetbuilds-cc.vercel.app?_vercel_share=KbBNu31nvVQvJaQ7AjSLojW8RAyNTj8Q",
+    href: "https://calora-ten.vercel.app?_vercel_share=oThlBn52xqtqGspcleoC60lpPBiFpbgF",
   },
   {
     title: "Post Call Analysis",
